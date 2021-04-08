@@ -23,6 +23,9 @@ class Solution {
 
 public class One {
     public static void main(String[] args) {
+        Solution one = new Solution();
+
+        System.out.println(one);
 
     }
 }
