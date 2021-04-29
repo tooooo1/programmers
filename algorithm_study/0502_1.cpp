@@ -24,9 +24,3 @@ bool solution(string arr) {
     }
 
 }
-
-int main() {
-    string arr = "()";
-    cout<< solution(arr);
-    
-}
